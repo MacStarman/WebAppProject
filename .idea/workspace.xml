@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6189c36-d3a2-4916-8be9-26e4ed2af6f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/app-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/app-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/META-INF/maven/app/app/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/META-INF/maven/app/app/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/AppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Checkout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/CheckoutController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/GeneralController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/GeneralController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/GeneralController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/OwnerController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/OwnerController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/OwnerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/RegistrationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/UserController$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/UserController$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Controllers/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/Authority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/Dataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/OrderDetail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/Orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/Review.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/HTMLString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/AuthorityRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/CheckoutRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/DatasetRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/OrderDetailRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/OrdersRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/ProductRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/ReviewRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/JpaRepository/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Vo/DatasetEdit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Vo/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Vo/OrderVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Vo/PutOrderVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/classes/app/Vo/RegisterVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/surefire-reports/TEST-app.AppApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/surefire-reports/app.AppApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAppProject/target/test-classes/app/AppApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2tGSj4uu5LGg6ufAwTWTSh02uSq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6189c36-d3a2-4916-8be9-26e4ed2af6f2" name="Changes" comment="" />
+      <created>1739977049783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739977049783</updated>
+    </task>
+    <servers />
+  </component>
+</project>

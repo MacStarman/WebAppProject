@@ -46,7 +46,7 @@ public class OrderController {
         Dataset dataset = productRepository.getById(order.getDataset());
         int newCount = order.getCount() + moreOrLess;
         order.setCount(newCount);
-        order.setPrice(newCount * new Double(dataset.getPricePerDataPoint()));
+        order.setPrice(newCount * (double) dataset.getPricePerDataPoint());
         ordersRepository.save(order);
 
         int userId = order.getUserId();
@@ -102,6 +102,7 @@ public class OrderController {
         return map + "<meta http-equiv=\"refresh\" content=\"1; url=/owner/" + userId + "/orders\">";
     }
 
+    // C2: Method to show a customer their orders
     @GetMapping("/User/{id}/orders")
     public Object getCustomerOrder(@PathVariable("id") Integer userId, Model model) {
         Map<String, Object> map = new HashMap<>();
@@ -143,6 +144,7 @@ public class OrderController {
         return "Orders";
     }
 
+    // O3: Method to show an owner all the orders for their products.
     @GetMapping("/owner/{id}/orders")
     public String getOwnerOrders(@PathVariable("id") Integer ownerId, Model model) {
         /*
